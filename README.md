@@ -20,7 +20,7 @@
 <img src="https://skillicons.dev/icons?i=python" />
 
 ### I know
-<img src="https://skillicons.dev/icons?i=html,css,c,linux,sqlite" />
+<img src="https://skillicons.dev/icons?i=html,css,c,linux,sqlite,java" />
 
 ## Contact me
 <div>
