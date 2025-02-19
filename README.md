@@ -29,7 +29,7 @@
   <img src="https://i0.wp.com/iledefrance-unowhy.com/wp-content/uploads/2021/04/edupython-logo.png?fit=400%2C400&ssl=1" style=width:50px;height:50px; alt="Edupython" title="Edupython"/>
   <img src="https://skillicons.dev/icons?i=eclipse" style=width:50px;height:50px; alt="Eclipse IDE" title="Eclipse IDE"/>
   <img src="https://github.com/user-attachments/assets/dd0761f5-169f-4a88-ad80-66862c2ac3df" style=width:50px;height:50px; alt="RStudio" title="RStudio"/>
-  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VScode" title="VScode" />
 </div>
 
 ## Contact me
