@@ -14,10 +14,10 @@
   
 ## Programming Languages
 ### I'm a master
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python,java" />
 
 ### I know
-<img src="https://skillicons.dev/icons?i=html,css,c,linux,sqlite,java" />
+<img src="https://skillicons.dev/icons?i=html,css,c,linux,sqlite" />
 
 ## IDE
 ### I use
