@@ -37,6 +37,7 @@
   <a href="https://www.instagram.com/henzodu33/"><img src="https://skillicons.dev/icons?i=instagram" /> </a>
   <a href="https://discord.com/users/707270165473001534"><img src="https://skillicons.dev/icons?i=discord" /> </a>
   <a href="https://stackoverflow.com/users/23424763/programmeurdu33"><img src="https://skillicons.dev/icons?i=stackoverflow" /> </a>
+  <a href="linkedin.com/in/henzo-renet-628785385"><img src="https://skillicons.dev/icons?i=linkedin" /> </a>
 </div>
 <div>
   <p>school mail : henzo.renet@etu.unilim.fr</p>
