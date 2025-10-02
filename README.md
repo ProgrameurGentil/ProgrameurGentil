@@ -20,7 +20,7 @@
 <img src="https://skillicons.dev/icons?i=python,java" />
 
 ### I know
-<img src="https://skillicons.dev/icons?i=html,css,js,c,linux,sqlite" />
+<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,php,linux,sqlite" />
 
 ## IDE
 ### I use
@@ -30,6 +30,7 @@
   <img src="https://skillicons.dev/icons?i=eclipse" style=width:50px;height:50px; alt="Eclipse IDE" title="Eclipse IDE"/>
   <img src="https://github.com/user-attachments/assets/dd0761f5-169f-4a88-ad80-66862c2ac3df" style=width:50px;height:50px; alt="RStudio" title="RStudio"/>
   <img src="https://skillicons.dev/icons?i=vscode" alt="VScode" title="VScode" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" title="Visual Studio" />
 </div>
 
 ## Contact me
