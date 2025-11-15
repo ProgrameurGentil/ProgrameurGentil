@@ -20,7 +20,7 @@
 <img src="https://skillicons.dev/icons?i=python,java" />
 
 ### I know
-<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,php,linux,sqlite" />
+<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,php,linux,sqlite,rust" />
 
 ## IDE
 ### I use
